@@ -40,8 +40,5 @@
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XakepAnonim&layout=compact&theme=vision-friendly-dark" />
-    </td>
   </tr>
 </table>
