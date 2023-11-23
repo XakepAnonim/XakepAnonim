@@ -45,3 +45,5 @@
     </td>
   </tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
