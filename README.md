@@ -29,6 +29,8 @@
 ### Databases
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
 ### Frontend
 
