@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
-
 # Hi there 👋 I'm [Dmitriy](https://clck.ru/38PcGe)
 
 <p align="center">
@@ -31,3 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&theme=dracula&show_icons=true&count_private=true&hide_border=true&hide=stars" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XakepAnonim&theme=dracula&hide_border=true&layout=compact" />
 </span>
+
+
+![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
