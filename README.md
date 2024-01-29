@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dmitriy
+## Hi there 👋 I'm [Dmitriy](https://youtu.be/dQw4w9WgXcQ?si=WUydd-ol78ah0sAd)
 
 ### Обо мне:
 
@@ -7,14 +7,6 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-### 🤝 Социальные сети:
-
-<div id="badges">
-    <a href="https://t.me/XakepAnonim" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-</div>
 
 ## 💻 Stack
 
@@ -37,16 +29,9 @@
 
 ## Statistics
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XakepAnonim&layout=compact&theme=vision-friendly-dark"/>
-    </td>
-  </tr>
-</table>
-
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&theme=dracula&show_icons=true&count_private=true&hide_border=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XakepAnonim&theme=dracula&hide_border=true&layout=compact" />
+</span>
 
 ![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
