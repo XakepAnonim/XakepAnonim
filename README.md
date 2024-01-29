@@ -13,7 +13,6 @@
 <a href="https://fastapi.tiangolo.com/tutorial/body/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
 </a>
 
-
 ### Databases
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -29,6 +28,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&theme=dracula&show_icons=true&count_private=true&hide_border=true&hide=stars" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XakepAnonim&theme=dracula&hide_border=true&layout=compact" />
 </span>
- ឵឵឵ ឵឵឵
-  ឵឵឵ ឵឵឵឵឵឵
-![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
