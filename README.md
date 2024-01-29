@@ -1,8 +1,6 @@
-## Hi there 👋 I'm [Dmitriy](https://youtu.be/dQw4w9WgXcQ?si=WUydd-ol78ah0sAd)
+![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
 
-### Обо мне:
-
-А нету <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
+# Hi there 👋 I'm [Dmitriy](https://clck.ru/38PcGe)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -33,5 +31,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XakepAnonim&theme=dracula&show_icons=true&count_private=true&hide_border=true&hide=stars" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XakepAnonim&theme=dracula&hide_border=true&layout=compact" />
 </span>
-
-![](https://komarev.com/ghpvc/?username=XakepAnonim&color=blueviolet&style=plastic)
