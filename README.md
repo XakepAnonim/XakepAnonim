@@ -17,7 +17,7 @@
 
 ### Frontend
 
-<img src="assets/icons/html5.svg" width="36" height="36" alt="HTML5"/> <img src="assets/icons/css3.svg" width="36" height="36" alt="CSS3"/> <img src="assets/icons/javascript.svg" width="36" height="36" alt="JavaScript"/>
+<img src="assets/icons/html5.svg" width="36" height="36" alt="HTML5"/> <img src="assets/icons/css3.svg" width="36" height="36" alt="CSS3"/> <img src="assets/icons/javascript.svg" width="36" height="36" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 
 
 ## Statistics
